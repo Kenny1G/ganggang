@@ -1,4 +1,4 @@
-
+*.swp
 gs
 logs
 *.log
